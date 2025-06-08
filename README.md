@@ -25,6 +25,9 @@ A simple To-Do List application built using Java Swing. Users can add, remove, a
 
 1. Open `ToDoList.java` in any IDE or text editor.
 2. Compile and run:
-```bash
+
 javac ToDoList.java
 java ToDoList
+
+![Screenshot 2025-06-08 121145](https://github.com/user-attachments/assets/320a16cd-9bbe-4968-9baa-372b0f571223)
+
